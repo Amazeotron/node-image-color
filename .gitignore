@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+public/bower_components
+images/1x1.png
+.idea
